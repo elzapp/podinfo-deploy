@@ -26,7 +26,6 @@ spec:
         - containerPort: 3000
           initialDelaySeconds: 1
           periodSeconds: 10
-          failureThreshold: 2
         resources:
           requests:
             memory: "32Mi"

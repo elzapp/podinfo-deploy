@@ -1,0 +1,1 @@
+{"jobID":"13a643f6-342f-190e-8eb8-01a02d5ed19c","spec":{"type":"policy","cause":{"Message":"","User":"Bård Aase \u003celzapp@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
